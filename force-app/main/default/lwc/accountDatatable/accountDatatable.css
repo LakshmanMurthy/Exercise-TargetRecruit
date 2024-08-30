@@ -1,0 +1,9 @@
+
+/* Custom styles for the data table */
+.slds-icon-text-success {
+    color: #28a745; /* Green color */
+}
+
+.slds-icon-text-error {
+    color: #dc3545; /* Red color */
+}
